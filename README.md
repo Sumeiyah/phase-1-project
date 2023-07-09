@@ -1,6 +1,6 @@
 ## Moringa Quiz Application
 
-A quiz application that allows students to answer questions about the environment, lecturers, and food services at Moringa School. The application is built using HTML, CSS, and JavaScript, and it fetches quiz questions from a JSON file.
+A quiz application that allows students to answer questions about the environment, lecturers, and food services at Moringa School. The application is built using HTML, CSS, and JavaScript, and it fetches quiz questions from a JSON file..
 
 ## Objective
 
