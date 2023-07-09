@@ -55,4 +55,6 @@ Sumeya Farah
 
 ## license
 This project is licensed under the [MIT License](LICENSE).
+## deployed 
+you can find the website here https://main--phenomenal-ganache-770da3.netlify.app/
 
