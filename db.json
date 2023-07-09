@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "How would you rate the environment at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Excellent"
+      },
+      {
+        "question": "How would you rate the lecturers at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Good"
+      },
+      {
+        "question": "How would you rate the food services at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Average"
+      },
+      {
+        "question": "How satisfied are you with the study materials provided at Moringa?",
+        "options": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"],
+        "answer": "Very satisfied"
+      },
+      {
+        "question": "How well does Moringa prepare you for real-world challenges?",
+        "options": ["Very well", "Well", "Average", "Not well"],
+        "answer": "Very well"
+      },
+      {
+        "question": "How accessible are the facilities at Moringa?",
+        "options": ["Very accessible", "Accessible", "Somewhat accessible", "Not accessible"],
+        "answer": "Very accessible"
+      },
+      {
+        "question": "How would you rate the support and assistance provided by the staff at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Good"
+      },
+      {
+        "question": "How satisfied are you with the extracurricular activities organized by Moringa?",
+        "options": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"],
+        "answer": "Satisfied"
+      },
+      {
+        "question": "How likely are you to recommend Moringa to others?",
+        "options": ["Very likely", "Likely", "Unlikely", "Very unlikely"],
+        "answer": "Likely"
+      },
+      {
+        "question": "How would you rate the overall learning experience at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Good"
+      }
+    ]
+  }
+  
