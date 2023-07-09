@@ -5,6 +5,12 @@
         "options": ["Excellent", "Good", "Average", "Poor"],
         "answer": "Excellent"
       },
+        
+     {
+        "question": "How would you rate the lecturers at Moringa?",
+        "options": ["Excellent", "Good", "Average", "Poor"],
+        "answer": "Good"
+      },
      
       {
         "question": "How would you rate the food services at Moringa?",
